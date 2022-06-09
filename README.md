@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! 👋
+
+🌱I'm Testimony, a 400 level student of University of Ibadan studying Electrical and Electronics Engineering.
+
+🔭 I'm a Certified Robotics Process Automation developer. ![UiPath](https://img.shields.io/badge/UiPath-000000?style=for-the-badge&logo=GitHub&logoColor=white)]. You can check out my cerifications at https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2022-03-25&ci=UIP00189829 and https://www.certmetrics.com/uipath/public/badge.aspx?i=2&t=c&d=2022-04-26&ci=UIP00189829.
+
 
 <!--
 **Tessy8/Tessy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
