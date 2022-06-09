@@ -1,8 +1,12 @@
 ### Hi! 👋
 
-🌱I'm Testimony, a 400 level student of University of Ibadan studying Electrical and Electronics Engineering.
+🌱I'm a 400 level student of University of Ibadan studying Electrical and Electronics Engineering.
 
-🔭 I'm a Certified Robotics Process Automation developer. ![UiPath](https://img.shields.io/badge/UiPath-000000?style=for-the-badge&logo=GitHub&logoColor=white)]. You can check out my cerifications at https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2022-03-25&ci=UIP00189829 and https://www.certmetrics.com/uipath/public/badge.aspx?i=2&t=c&d=2022-04-26&ci=UIP00189829.
+🔭 I'm a Certified Robotics Process Automation developer. ![UiPath](https://img.shields.io/badge/UiPath-000000?style=for-the-badge&logo=UiPath&logoColor=white). You can check out my cerifications at https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2022-03-25&ci=UIP00189829 and https://www.certmetrics.com/uipath/public/badge.aspx?i=2&t=c&d=2022-04-26&ci=UIP00189829.
+
+✨I'm a Robotics and ioT enthusiast. I'm looking to collaborate on projects👐. Thank you!
+
+
 
 
 <!--
