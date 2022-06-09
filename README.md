@@ -1,3 +1,5 @@
+https://github.com/Tessy8/Tessy8/blob/main/Tessy.png
+<img src="https://github.com/Tessy8/Tessy8/blob/main/Tessy.png" alt="banner that says Hi">
 ### Hi! 👋
 
 🌱I'm a 400 level student of University of Ibadan studying Electrical and Electronics Engineering.
