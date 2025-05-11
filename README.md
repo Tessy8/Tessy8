@@ -3,10 +3,7 @@
 
 🌱Electrical and Electronics Engineering.
 
-🔭 I'm a [Certified](https://www.certmetrics.com/uipath/public/badge.aspx?i=2&t=c&d=2022-04-26&ci=UIP00189829) Robotics Process Automation developer. 
-![UiPath](https://img.shields.io/badge/UiPath-000000?style=for-the-badge&logo=UiPath&logoColor=white)
-
-✨I'm a Robotics and ioT enthusiast. I'm looking to collaborate on projects👐. 
+✨I'm an Embedded Systems Engineer. I'm looking to collaborate on projects👐. 
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Tessy8&show_icons=true&theme=radical)
 
